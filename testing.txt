@@ -1,0 +1,18 @@
+In addition, please include a plain text file called "testing.txt". In this file you should provide a brief summary of what you did 
+from a testing perspective to ensure your designed worked correctly. In particular,
+
+1) What did you do to ensure that "normal" interaction with the device worked as anticipated?
+2) What were the "non-standard" ways you interacted with the device to ensure it was robust to unusual/unexpected inputs?
+We expect that you will have conducted a reasonably robust set of tests to check the functionality of your implementation.
+------------------------------------------------
+# PART 1 : Photocell + LED 
+1) 
+2)
+
+# PART 2: Ultrasonic
+1) 
+2) 
+
+# PART 3
+1)
+2)
